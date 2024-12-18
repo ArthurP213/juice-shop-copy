@@ -25,4 +25,4 @@ jobs:
       with:
        context: 
        push: true
-       tags: arthurp509/juice-shop-hmp:latest
+       tags: ArthurP213/juice-shop-hmp:latest
